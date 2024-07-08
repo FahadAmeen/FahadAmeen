@@ -10,7 +10,6 @@ I'm a Software Engineer based in Pakistan.
 - 💬 Ask me about Anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fahad-ameen-27b266120/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: [fun fact about you]
 
 ## 🛠 Skills
 - Languages: Javascript, TypeScript, C#, Python
