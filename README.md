@@ -1,7 +1,6 @@
 # Hello, I'm Fahad Ameen! 👋
-<p align="left">
-	<a href="My Resume.pdf"target="_blank"><img src="resume-svg.svg" alt="Resume CV" width="115" height="20"></a>
-</p>
+<a href="My Resume.pdf" target="_blank"><img src="resume-svg.svg" alt="Resume CV" width="115" height="20"></a>
+
 ## 🚀 About Me
 I'm a Software Engineer based in Pakistan.
 - 🔭 I’m currently working on the Hera Solution Project
