@@ -1,6 +1,6 @@
 # Hello, I'm Fahad Ameen! 👋
 <p align="left">
-	<a href="https://terrytangyuan.github.io/cv.html"target="_blank"><img src="resume-svg.svg" alt="Resume CV" width="115" height="20"></a>
+	<a href="Fahad's Resume.pdf"target="_blank"><img src="resume-svg.svg" alt="Resume CV" width="115" height="20"></a>
 </p>
 ## 🚀 About Me
 I'm a Software Engineer based in Pakistan.
